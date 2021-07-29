@@ -1,0 +1,13 @@
+.grayscal {
+    filter: grayscale(100%);
+}
+.coustomiz-background {
+    background-color: #264653;
+    
+}
+.text-color.btn-colors {
+    color: #E76F51;
+} 
+.my-colors {
+    color: #E76F51;
+} 
